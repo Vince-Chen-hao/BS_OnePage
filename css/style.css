@@ -8,15 +8,12 @@
       opacity:0.8;
   }
 
-  
   #home-section {
     background: url(../img/background2.jpg); 
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px; 
-  
   } 
-
 
   #home-section .dark-overlay {
     width: 100%;
@@ -32,41 +29,28 @@
     opacity: 0.8;
   }
   
-  #home-section .fas
-  {
+  #home-section .fas{
     color: #42a1d1;
     padding: 2px;
     border: 1px solid rgb(36, 86, 180);
     border-radius: 999em;
-    
   }
   
-  #Brandspirit-head-section .fas {
+  #Brandspirit-head-section .fas{
     color: rgb(107, 161, 177);
     padding: 2px;
     border: 2px solid rgb(141, 161, 161);
     border-radius: 999em;
   }
- 
-  
+
   #Information-section{
     background: rgb(17, 100, 168);
-
-
   }
+
   .info-header{
     width:50%;
     margin:auto;
-
-
   }
-
-  .info-header {
-    width: 50%;
-    margin: auto;
-    }
-
-
 
   #Teams-head-section img {
     margin-top: -50px; 
@@ -80,10 +64,8 @@
 
   #Teams-head-section .card:hover {
     background: #bbdadf;
-   }
+  }
 
-   #Teams-head-section .fab{
-    
+  #Teams-head-section .fab{
     color:rgb(69, 172, 185);
-
-   }
+  }
