@@ -36,6 +36,14 @@ body {
   border-radius: 999em;
 }
 
+@media screen and (max-width: 600px) {
+  .home-inner h1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+  }
+}
+
 #Brandspirit-head-section .fas {
   color: rgb(107, 161, 177);
   padding: 2px;
