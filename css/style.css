@@ -1,71 +1,70 @@
-  body{
-      background:rgb(31, 45, 53);
-      color:white;
-  }
+body {
+  background: rgb(31, 45, 53);
+  color: white;
+}
 
-  .navbar{
-      border-bottom:palevioletred 3px solid;
-      opacity:0.8;
-  }
+.navbar {
+  border-bottom: palevioletred 3px solid;
+  opacity: 0.8;
+}
 
-  #home-section {
-    background: url(../img/background2.jpg); 
-    background-size: cover;
-    background-attachment: fixed;
-    min-height: 700px; 
-  } 
+#home-section {
+  background: url(../img/background2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
 
-  #home-section .dark-overlay {
-    width: 100%;
-    min-height: 700px;
-    background:  rgba(56, 56, 56, 0.7);
-  }
-  
-  #home-section .home-inner {
-    padding-top: 150px;
-  }
-  
-  #home-section .card-form {
-    opacity: 0.8;
-  }
-  
-  #home-section .fas{
-    color: #42a1d1;
-    padding: 2px;
-    border: 1px solid rgb(36, 86, 180);
-    border-radius: 999em;
-  }
-  
-  #Brandspirit-head-section .fas{
-    color: rgb(107, 161, 177);
-    padding: 2px;
-    border: 2px solid rgb(141, 161, 161);
-    border-radius: 999em;
-  }
+#home-section .dark-overlay {
+  width: 100%;
+  min-height: 700px;
+  background: rgba(56, 56, 56, 0.7);
+}
 
-  #Information-section{
-    background: rgb(17, 100, 168);
-  }
+#home-section .home-inner {
+  padding-top: 150px;
+}
 
-  .info-header{
-    width:50%;
-    margin:auto;
-  }
+#home-section .card-form {
+  opacity: 0.8;
+}
 
-  #Teams-head-section img {
-    margin-top: -50px; 
-    transition: all 1s;
-  }
+#home-section .fas {
+  color: #42a1d1;
+  padding: 2px;
+  border: 1px solid rgb(36, 86, 180);
+  border-radius: 999em;
+}
 
-  #Teams-head-section img:hover {
-    transform:scale(1.2,1.2); 
-  }
+#Brandspirit-head-section .fas {
+  color: rgb(107, 161, 177);
+  padding: 2px;
+  border: 2px solid rgb(141, 161, 161);
+  border-radius: 999em;
+}
 
+#Information-section {
+  background: rgb(17, 100, 168);
+}
 
-  #Teams-head-section .card:hover {
-    background: #bbdadf;
-  }
+.info-header {
+  width: 50%;
+  margin: auto;
+}
 
-  #Teams-head-section .fab{
-    color:rgb(69, 172, 185);
-  }
+#Teams-head-section img {
+  margin-top: -50px;
+  transition: all 1s;
+}
+
+#Teams-head-section img:hover {
+  transform: scale(1.2, 1.2);
+}
+
+#Teams-head-section .card:hover {
+  background: #bbdadf;
+}
+
+#Teams-head-section .fab {
+  color: rgb(69, 172, 185);
+}
